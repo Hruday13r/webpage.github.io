@@ -1,0 +1,86 @@
+.Studentslogin{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.companyemail{
+  width: 250px;
+  height: 30px;
+  border-color: grey;
+  border: 1px solid grey;
+  text-align: center;
+}
+.logo{
+  color: grey;
+}
+.select-name{
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid black; */
+  /* margin-left: 400px;
+  margin-right: 350px; */
+  align-items: center;
+}
+/* .select-name .std-board{
+  margin-left: 60px;
+} */
+.btn-side{
+  height: 100%;
+  margin-top: 25px;
+}
+.btn-name{
+  width: 200px;
+  text-align: center;
+  color: grey;
+}
+/* .btn-side .btn-main .btn-name{
+
+} */
+.std-detail{
+  display: flex;
+  /* padding-right: 15px; */
+   margin-top: 25px;
+   width: 800px;
+}
+.fst-name{
+   margin-left: 50px;
+   width: 200px;
+}
+.class-name{
+  width: 200px;
+  margin-left: 50px;
+
+}
+.add-detail{
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+  margin-top: 25px;
+}
+.address-1{
+  margin-left: 50px;
+  width: 300px;
+}
+.address-2{
+  margin-right: 50px;
+  width: 300px;
+}
+.Add-btn{
+  margin-left: 50px;
+  margin-top: 25px;
+  padding: 8px 60px;
+  background-color: orangered;
+  border-radius: 10px;
+  color: white;
+  border: none;
+
+}
+.icon-view{
+  margin-left: 15px;
+  color: orangered;
+}
+.animal{
+  margin-right: 10px;
+}
